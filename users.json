@@ -1,0 +1,22 @@
+[
+  {
+    "user_id": 7489639013,
+    "login": "test",
+    "password": "gAAAAABqbuzch0nbWdko21X4Cop-h8jmhpHpNfVb_RRqBJh4KSDMNE-Ejp4DY5C6Q5C0NYU--gwgsRLzFy70SXS2EmrtArARNg==",
+    "hwid": "ade0668c-69ec-46fe-8910-7278ebf03ea2",
+    "ip": "gAAAAABqcRW91e4kJzVl1RvVlcuBrLG4RsDJd29OwUN_57TljAVu25QSp97thDLTHktR5Ig2wfNfVnZOKf7tbqpOHuqaj2KdyQ==",
+    "ban": "no",
+    "created": 1785654492,
+    "beta": "yes"
+  },
+  {
+    "user_id": 8476917957,
+    "login": "A_what",
+    "password": "gAAAAABqbu5bbkzTg7yYLh5nseTjvtHQL0xHZViyF-vROMJGtj9-7rNuo3LbT8grZHslytbyeeO_ZIwgSzR8zF6YSQHtT92D4Q==",
+    "hwid": "none",
+    "ip": "none",
+    "ban": "yes",
+    "created": 1785654875,
+    "beta": "yes"
+  }
+]
